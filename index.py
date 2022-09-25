@@ -1,2 +1,2 @@
-print("hola lucas!")
-
+print("hola lucas.")
+print("hola juan.")
